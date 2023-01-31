@@ -3,6 +3,10 @@
 ## Description
 This application is used to view the current day's forecast as well as the coming 5-day forecast. Make sure to use this to plan your week!
 
+![screenshot](/screenshot.PNG)
+
+[Link to Deployed Site](https://igurgoze.github.io/Server-Side-APIs-Challenge-Weather-Dashboard/)
+
 ## Table of contents
 
 - [Installation](#Insallation)
